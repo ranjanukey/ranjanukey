@@ -81,15 +81,6 @@
 
 ---
 
-## 🎨 Data Visualization Showcase
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/1024/9790/9790991.png" width="300px" alt="Data analyst illustration 1" />
-  <img src="https://cdn-icons-png.flaticon.com/512/9790/9790988.png" width="300px" alt="Data analyst illustration 2" />
-  <img src="https://cdn-icons-png.flaticon.com/512/9790/9791020.png" width="300px" alt="Data charts illustration 3" />
-</p>
-
----
 
 ## 📬 Connect with Me
 
