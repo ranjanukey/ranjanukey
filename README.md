@@ -42,7 +42,7 @@
       <br>
       Customer segmentation & campaign analysis using survey data.
       <br>
-      🔗 <a href="https://github.com/ranjanukey/marketing-insights-dashboard">View Project</a>
+      🔗 <a href="https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project">View Project</a>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@
       <br>
       Dashboard for AtliQ Hardware: 1M+ rows of sales & inventory data.
       <br>
-      🔗 <a href="https://github.com/ranjanukey/retail-ecommerce-dashboard">View Project</a>
+      🔗 <a href="https://github.com/ranjanukey/Sales-Performance-Analysis">View Project</a>
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@
       <br>
       Segmented customers by income & behavior for product launch.
       <br>
-      🔗 <a href="https://github.com/ranjanukey/banking-customer-insights">View Project</a>
+      🔗 <a href="https://github.com/ranjanukey/Customer-Insights-Dashboard">View Project</a>
     </td>
   </tr>
   <tr>
